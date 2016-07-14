@@ -60,7 +60,6 @@
                 msg.push("Внимание! Необходимо заполнить все обязательные поля!");
             }
             showErrorMsg(form, msg);
-            event.preventDefault();
         }
     }
 
