@@ -228,6 +228,7 @@ textarea.text-input {
 .radio-input-custom:not(checked) {
 	position: absolute;
 	opacity: 0;
+	visibility: hidden;
 }
 
 .radio-input-custom:not(checked) + label {
