@@ -1,2 +1,0 @@
-# BarenAlen.github.io
-misc
